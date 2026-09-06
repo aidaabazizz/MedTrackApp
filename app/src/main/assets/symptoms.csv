@@ -1,0 +1,7 @@
+PatientID,Category,Severity,Notes,DateTime
+P1001,Headache,6,Dull ache after morning dose,2026-03-18 09:30
+P1001,Nausea,4,After Metformin with breakfast,2026-03-19 08:45
+P1001,Fatigue,5,Tired throughout the day,2026-03-20 14:00
+P1002,Pain,7,Sharp abdominal pain,2026-03-15 11:00
+P1002,Dizziness,3,Mild after standing quickly,2026-03-17 07:30
+P1003,Headache,8,Severe throbbing headache,2026-03-16 16:00

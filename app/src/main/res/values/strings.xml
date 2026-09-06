@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">aida.s34597506.medtrack</string>
+    <string name="title_activity_patient">Patient</string>
+    <string name="title_activity_medication">Medication</string>
+    <string name="title_activity_symptom">Symptom</string>
+    <string name="title_activity_csv_repository">CsvRepository</string>
+    <string name="title_activity_session_manager">SessionManager</string>
+    <string name="title_activity_screens">screens</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_add_medication_screen">AddMedicationScreen</string>
+    <string name="title_activity_symptoms_screen">SymptomsScreen</string>
+    <string name="title_activity_patients.csv">patients.csv</string>
+    <string name="title_activity_session_manager.kt">SessionManager.kt</string>
+    <string name="title_activity_sign_up_screen">SignUpScreen</string>
+</resources>

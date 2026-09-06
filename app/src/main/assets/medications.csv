@@ -1,0 +1,6 @@
+PatientID,MedicationName,Dosage,Frequency,ScheduledTime,MedicationType,Notes
+P1001,Metformin,500mg,Twice daily,08:00,Tablet,Take with food
+P1001,Lisinopril,10mg,Once daily,07:00,Tablet,Take in the morning
+P1002,Amoxicillin,250mg,Three times daily,08:00,Capsule,Complete full course
+P1002,Ibuprofen,200mg,As needed,12:00,Tablet,Take with food or milk
+P1003,Atorvastatin,20mg,Once daily,21:00,Tablet,Take in the evening
